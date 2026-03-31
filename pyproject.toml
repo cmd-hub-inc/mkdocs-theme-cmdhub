@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mkdocs-theme-cmdhub"
+version = "0.1.0"
+description = "CmdHub MkDocs theme assets (Discord Blurple palette)"
+readme = "README.md"
+authors = [ { name = "Cmd Hub" } ]
+license = { text = "MIT" }
